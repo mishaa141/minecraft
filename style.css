@@ -1,0 +1,76 @@
+body{
+    margin: 0;
+}
+
+h1{
+   padding: 0;
+   margin: 0;
+}
+
+text{
+    margin: 0;
+    padding: 20px;
+}
+header{
+    height:200px ; /*высота блока*/
+    background-color: rgb(148, 171, 248); /*цвет фона*/
+    color: rgba(255, 0, 0, 0.808); /*цыет текста*/
+    text-align: center;
+    font-size: 70px;
+    background-image: url();
+    
+   
+}
+
+
+.left{
+    width: 50%;
+}
+
+.right
+{   width: 0;
+    
+
+    float: right;
+       
+      
+}
+
+
+main{
+    height:1100px ;
+    background-color: rgb(78, 190, 3);
+    color: rgb(255, 251, 0);
+    text-align: left;
+    font-size:30px;
+    background-image: url(https://avatanplus.com/files/resources/original/585f532c0bceb159345ce410.png);
+    background-size: cover;
+    display: flex;
+}
+footer{
+    height:1500px;
+    background-color:rgb(95, 16, 91) ;
+    color:rgb(255, 255, 255);
+    text-align:center;
+    font-size:30px ;
+    background-image: url(https://cojo.ru/wp-content/uploads/2022/12/blok-zemli-mainkraft-2d-2.webp);
+    background-size: cover;
+    padding-top: 20px;
+}
+
+    .social img {
+        width: 100px;
+    background-size: cover;
+        padding-left: 10px;
+        
+    }
+
+    .social{
+        list-style: none;
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        background-image: url(https://cojo.ru/wp-content/uploads/2022/12/blok-zemli-mainkraft-2d-2.webp);
+        
+        
+    }
